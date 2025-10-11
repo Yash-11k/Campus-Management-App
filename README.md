@@ -1,2 +1,14 @@
-# Campus-Management-App
-The Campus Management App is a digital solution designed to simplify and automate various administrative and academic activities within a college or university. It helps students, teachers, and administrators manage all campus-related information — such as attendance, notices, events, grades, etc.
+# Campus Project App
+
+## Overview
+Campus Project App is a web application to manage campus activities such as issue reporting and task tracking.
+
+## Features
+- Report campus issues (e.g., maintenance problems)
+- Track the status of reported issues
+- Assign tasks to staff or admin
+
+## Tech Stack
+- **Backend:** Java, Spring Boot
+- **Frontend:** React.js
+- **Database:** MongoDB
